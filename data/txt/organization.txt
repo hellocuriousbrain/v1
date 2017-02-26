@@ -1,0 +1,36 @@
+<strong> Organization Structure </strong> 
+<p><span style="font-family: georgia, serif; font-size: 14px;
+                    line-height: 22px; background-color:#ffffff">
+                Our organization works in a manner that the Donation comes from
+                people will not go in garbage.
+                For this Sewa Bharti built a solid organizational structure.
+                </span>
+                </p>
+                <p align = "Left" style = "margin-left:10px;">
+                <span style="font-family: georgia, serif; font-size: 14px;
+                    line-height: 22px; background-color:#ffffff">
+                Below is our organization structure :-
+                </span>
+                </p>
+                <p align = "Left" style = "margin-left:40px;">
+                <span style="font-family: georgia, serif; font-size: 14px;
+                    line-height: 22px; background-color:#ffffff">
+                    <strong> a) Teaching Department :- </strong> Total Number of teacher is 10
+                presently. We are happy to take service,if anyone is interested
+                to join our teaching department.
+                </span>
+                </p>
+                <p align = "Left" style = "margin-left:40px;">
+                <span style="font-family: georgia, serif; font-size: 14px;
+                    line-height: 22px; background-color:#ffffff">
+               <strong>  b) Event Organization Department :- </strong> Our Event Organizing
+                Department head is Vimla kumawat.
+                </span>
+                </p>
+                <p align = "Left" style = "margin-left:40px;">
+                <span style="font-family: georgia, serif; font-size: 14px;
+                    line-height: 22px; background-color:#ffffff">
+                <strong> c) Field work :- </strong> Field work is done by Vimla Kumawat.
+                </span>
+                </p>
+

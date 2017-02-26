@@ -1,0 +1,10 @@
+<strong> Hostel </strong>
+<p> <span style="font-family: georgia, serif; font-size: 14px;
+                    line-height: 22px; background-color:#ffffff">
+                    Most of student of Sewa Bharti livs in slum area of Jaipur.
+                Some of the children faces problem in studying properly at home
+                due to distrbance. Sewa bharti provides free hostel service and
+                free food to these children as well.
+                Sewa Bharti is providing hostel service for class 9th and 10th classes
+                students currently.
+            </span></p>

@@ -1,0 +1,15 @@
+<strong> Current Opening </strong>
+<p> <span style="font-family: georgia, serif; font-size: 14px;
+                    line-height: 22px; background-color:#ffffff"> Sewa Bharti is
+                    based on rajasthan Board. Number of subjects are six :-
+                    hindi , english, math, sanskrit ,science and social
+                    science. Sewa Bharti educates student from Class I to Class X.  
+    </span> </p>
+
+           
+               <p align = "Left"><span style="font-family: georgia, serif;
+                   font-size: 14px; line-height: 22px;background-color:#ffffff;">
+                The interested
+                    candidate may mail their resume to sewabhartividya@gmail.com with subject line as the name of the position they are applying for.
+                </span></p>
+

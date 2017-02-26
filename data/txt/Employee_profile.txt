@@ -1,0 +1,16 @@
+<strong> Employee Profile </strong>
+ <p> <span style="font-family: georgia, serif; font-size: 14px;
+                    line-height: 22px; background-color:#ffffff">  Total Number of teacher is 10 presently.  
+    </span> </p>
+
+           
+               <p align = "Left"><span style="font-family: georgia, serif;
+                   font-size: 14px; line-height: 22px;background-color:#ffffff;">
+                   <strong> Vimla Kumawat :- </strong> She is founder of Sewa Bharti Organization.
+                Working for Sewa Bharti since 13 years. 
+            </span></p>
+            <p align = "Left"><span style="font-family: georgia, serif;
+                   font-size: 14px; line-height: 22px;background-color:#ffffff;">
+                   <strong> Neeraj Sharma :- </strong> He is principal of Sewa Bharti Organization.
+                Working for Sewa Bharti since 8 years. 
+                </span></p>

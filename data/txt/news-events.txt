@@ -1,0 +1,45 @@
+<strong> News And Events </strong>
+<p>                
+                <span style="font-family: georgia, serif; font-size: 14px;line-height: 22px; background-color:#ffffff">
+                Events give an opurunity to children to express there telant.
+                Sewa Bharti organize events for development of children's
+                personality in every area.
+                Sewa Bharti motivate children to particite in events.
+                </span>
+                </P>
+        
+                <p align = "Left" style = "margin-left:10px;font-weight:bold">
+                <span style="font-family: georgia, serif; font-size: 14px;line-height: 22px; background-color:#ffffff">
+                Upcoming Events :-
+                </span>
+                </P>
+                <p align = "Left" style = "margin-left:40px;">
+
+                <span style="font-family: georgia, serif; font-size: 14px;line-height: 22px; background-color:#ffffff">
+                Year 2014 :--
+                </span>
+                </P>
+                </span>
+                </P>
+                <p align = "Left" style = "margin-left:10px;font-weight:bold">
+                <span style="font-family: georgia, serif; font-size: 14px;line-height: 22px; background-color:#ffffff">
+
+                Past Events :-
+                </span>
+                <p align = "Left" style = "margin-left:40px;">
+                <span style="font-family: georgia, serif; font-size: 14px;line-height: 22px; background-color:#ffffff">
+                Year 2014 :-
+                </span>
+                </P>
+                <p align = "Left" style = "margin-left:40px;">
+                <span style="font-family: georgia, serif; font-size: 14px;line-height: 22px; background-color:#ffffff">
+                Year 2013 :-
+                </span>
+                </P>
+                <p align = "Left" style = "margin-left:40px;">
+                <span style="font-family: georgia, serif; font-size: 14px;line-height: 22px; background-color:#ffffff">
+                Year 2012 :-
+                </span>
+                </P>
+                
+

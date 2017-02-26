@@ -1,0 +1,34 @@
+<strong>Donate Online  </strong>
+<p>
+                                <span style="font-family: georgia, serif; font-size: 14px;line-height: 22px; background-color:#ffffff">
+               Sewa Bharti works for education of poor children. Our mission is
+               to provide education of each poor children for better future of
+               country.
+           </span>
+                </p>
+                <p align = "Left" style = "margin-left:10px;font-weight:bold">
+                                <span style="font-family: georgia, serif; font-size: 14px;line-height: 22px; background-color:#ffffff">
+               Please donate Sewa Bharti online.
+               Our Account opening is in process, we will share account details
+               soon. 
+           </span>
+                </p>
+
+                <p align = "Left" style = "margin-left:10px;font-weight:bold">
+                                <span style="font-family: georgia, serif; font-size: 14px;line-height: 22px; background-color:#ffffff">
+               You can send check also to Sewa Bharti on below postal address.
+               <p> <strong> Postal Address :- </strong> 20 , sharda enclave , sharda colony , mahesh nagar , jaipur <p>
+           </span>
+                </p>
+
+                <p align = "Left" style = "margin-left:10px;font-weight:bold">
+                                <span style="font-family: georgia, serif; font-size: 14px;line-height: 22px; background-color:#ffffff">
+               Or please call us on our contact number, we will come to you for
+               collecting money.
+           </span>
+                </p>
+                <p align = "Left" style = "margin-left:10px;font-weight:bold">
+                                <span style="font-family: georgia, serif; font-size: 14px;line-height: 22px; background-color:#ffffff">
+               Contact Number :- Vimla Kumawat 8769592989
+           </span>
+                </p>

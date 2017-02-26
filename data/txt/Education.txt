@@ -1,0 +1,65 @@
+<strong> Education </strong>
+<span style="font-family: georgia, serif; font-size: 14px;
+                    line-height: 22px; background-color:#ffffff">
+<p>Sewa Bharti school is providing education to children since
+                1998. </p>
+                <p align = "Left" style = "margin-left:20px; font-weight:bold">
+                Our approach 
+                </p>
+                <p align = "Left" style = "margin-left:20px;">
+                a) School Organization
+                </p>
+                <p align = "Left" style = "margin-left:20px;">
+                b) Personlity development
+                </p>
+                <p align = "Left" style = "margin-left:20px;">
+                c) encouragement 
+                </p>
+                <p align = "Left" style = "margin-left:20px;">
+                d) Social interaction
+                </p>
+
+                <p align = "Left" style = "margin-left:20px; ">
+                <span style = "font-weight:bold">School Organization :- </span>Sewa Bharti is organized in
+                such a way that each children should get maximum help for better
+                result. We provide education from class 1st to class 10th. Our
+                current stangth of childern is 218. We have a good teaching
+                staff which is fully dedicated for better education of childern. We keep focus on each
+                children for there proper learning. Sewa Bharti helps children
+                by distributing below things freely as well:-
+                <p align = "Left" style = "margin-left:40px;">
+                a) Provide School Uniform :- There parents can't efford uniform
+                for school. We distribute free uniform to all the children. </p>
+                <p align = "Left" style = "margin-left:40px;">
+                b) Provide Stationary :- Sewa Bharti provide free books, pen
+                pencil, notebooks to childerns.</p>
+                </p>  
+                <p align = "Left" style = "margin-left:20px;">
+                <span style = "font-weight:bold">Personality Development
+                    :-</span> Personlity development is mojor
+                factor for success and self confidence. Sewa bharti organize
+                events in time to time for personlity development.
+                </p>
+                <p align = "Left" style = "margin-left:20px;">
+
+                <span style = "font-weight:bold"> Encouragment :- </span> Encouragment develop interest in perticuler area
+                and people feel confident after getting proper encouagment. Sewa
+                Bharti Encourage the children who join us.
+                </p>
+                <p align = "Left" style = "margin-left:20px;">
+
+                <span style = "font-weight:bold">Social interaction :- </span>
+                Sewa Bharti interact with the children or children's guardina who need help for education.
+                And interact with the people who want to help childern as well.
+                <p align = "Left" style = "margin-left:40px;">
+
+                a) With Student's guardian :- Interaction with guardian is very
+                important for proper results from students. Parents of these
+                children are so busy with there own life that they don't have
+                time to think for there childern's future. But stil we are not
+                losing hopes. We go to those slum area and intract with them and
+                discuss about importance of education.</p>
+                <p align = "Left" style = "margin-left:40px;">
+                b) Others :- Social support is back bone for success of any non
+                profitable organization. We interect with those people, who can
+                help children. </p></p> </span>

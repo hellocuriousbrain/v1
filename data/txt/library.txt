@@ -1,0 +1,26 @@
+<strong> Library </strong>
+ <p>
+                <span style="font-family: georgia, serif; font-size: 14px;
+                    line-height: 22px; background-color:#ffffff">
+                A library is the delivery room for the birth of ideas, a place where history comes to life.
+                
+                </p>
+            </span>
+                <p align = "Left">
+                <span style="font-family: georgia, serif; font-size: 14px;
+                    line-height: 22px; background-color:#ffffff">
+                Sewa Bharti mentain it's own library. We have a good collection of books of novels, biographies of
+                great persons.
+            </span>
+                </p>
+                <p align = "Left">
+                <span style="font-family: georgia, serif; font-size: 14px;
+                    line-height: 22px; background-color:#ffffff">
+                Usally families have so many books, and they through those books
+                in garbage or they sold these books to someone in lesser price. 
+                We apriciate if someone donate used books to Sewa Bharti. 
+                Sewa Bharti student can use these books for gaining knowladge.
+                Please send used books to Sewa Bharti's address or call us, we
+                will collect from your place.
+            </span>
+                </p>

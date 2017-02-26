@@ -1,0 +1,22 @@
+<strong> Visit Our Place </strong>
+<p>                
+                <span style="font-family: georgia, serif; font-size: 14px;line-height: 22px; background-color:#ffffff">
+                People visits to temples, go to gardens for fun and roam around
+                the city.
+                We request people to visit our place.
+                Meet our staff members, student of Sewa Bharti.
+                By visiting you can get a real picture of organization.
+            </span>
+            </p>
+                <p align = "Left" style = "margin-left:20px;font-weight:bold">
+                <span style="font-family: georgia, serif; font-size: 14px;line-height: 22px; background-color:#ffffff">
+                Our Postal address is :-  20 , sharda enclave , sharda colony , mahesh nagar , jaipur
+            </span>
+                </p>
+
+                <p align = "Left" style = "margin-left:20px;">
+                <span style="font-family: georgia, serif; font-size: 14px;line-height: 22px; background-color:#ffffff">
+                Please feel free to call our contact person any time if you have
+                any trouble to find our place.
+            </span>
+                </p>
