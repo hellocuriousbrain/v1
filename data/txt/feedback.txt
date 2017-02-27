@@ -1,0 +1,21 @@
+ <div class = "extractor" align="center">
+<strong> Leave Your feedback </strong>
+
+         <hr>
+
+            <div class = "Mrsextractor_2"  style = "height:620px; margin: 50 0 0 0; " align = "Center">
+<form action="sendmail.php" method="POST">
+<div style = "height:50px;">
+<div style = "float: left; width: 150px; margin: 0 0 20 70; "> <b>Your name :</b> </div> <div style = "float: right; width: 250px; margin: 0 250 0 0; "> <input style="height:28px;width:290px;" type="text" name="name"><br>
+</div></div>
+<div style = "height:50px;"> <div style = "float: left; width: 150px; margin: 0 0 20 70;"> <b>Your e-mail :</b> </div> <div style = "float: right; width: 250px; margin: 0 250 0 0; "> <input style="height:28px;width:290px;" type="text" name="email"> <br></div></div>
+<div style = "height:110px;">
+ <div style = "float: left; width: 150px; margin: 0 0 20 70;  "> <b>Message :</b></div> <div style = "float: right; width: 250px; margin: 0 250 0 0; "><textarea  id="feedBackContent" style="width:290px;height:100px ;resize: none;" required="true" minlength="10" maxlength="1000" caption="Content" validate="validateStr" name="message"></textarea></div></div>
+<div style = "height:150px;">
+<div style = "float: left; width: 50px; margin: 0 0 20 270;   "><input type="submit" value="Send"></div> <div style = "float: right; width: 100px; margin: 0 280 0 0; "><input type="reset" value="Clear"></div></div>
+</form>
+            </div>
+            
+
+   </div>
+

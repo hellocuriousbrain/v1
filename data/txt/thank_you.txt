@@ -1,0 +1,15 @@
+<div class = "extractor" align="center">
+            <div class = "Mrsextractor" align="center">
+<strong> Thanks Message </strong>
+
+         <hr>
+            <div class = "Mrsextractor_2" align = "Center">
+    <strong> Thank You for Your Feedback. <strong>
+            </div>
+            <div class = "Mrsextractor_2" align = "Center">
+                           </div>
+
+
+       </div>
+   </div>
+
