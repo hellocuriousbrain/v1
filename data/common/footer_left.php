@@ -1,6 +1,6 @@
 <div >
     
-    <div align="left" class = "joomla-nav" style="height:200px;width:220px;float:left;background-color:#F0F0F0;padding: 20px 0px 0px 0px; padding 0px 0px 0px 0px ">
+    <div align="left" class = "joomla-nav" style="height:200px;width:250px;float:left;background-color:#F0F0F0;padding: 20px 0px 0px 0px; padding 0px 0px 0px 0px ">
                <ul >
               <li >
     <span style="font-family: georgia, serif; font-size: 14px; line-height: 25px;margin:0px,0px,0px,100px;">
