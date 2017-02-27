@@ -285,7 +285,7 @@ table.left_container
 {
 background-color:#FFFFFF;
 margin-top:0px;
-width:200px;
+width:300px;
 }
 table.right_container
 {
@@ -315,7 +315,7 @@ td.left
 color:#617f10;
 background-color:#F0F0F0;
 border-bottom:none;
-width:250px;
+width:300px;
 }
 td.right
 {

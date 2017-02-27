@@ -8,10 +8,10 @@
 <tbody>
         <!-- Full Start (This Contain Two tables (Right and Left)) -->
 	<tr>
-		<td class="left">
+		<td class="left" valign="top">
 
 		<!-- Left Table Start -->     
-		<table class="left_container" align="left" border="0" cellpadding="0" cellspacing="0">
+		<table class="left_container" valign="top" align="left" border="0" cellpadding="0" cellspacing="0">
 			<!--First Row of Left Table start -->
 			<tr>
 				<td valign="top">	
@@ -21,7 +21,7 @@
 			<!--First Row of Left Table End -->
 			<!--Second Row of Left Table Start -->
 			<tr>
-				<td width="200px" valign="top" style="height:250px;" >
+				<td width="300px" valign="top" style="height:250px;" >
         	        	<p><a> Latest News </a> </p>
 	        	        <marquee direction="up"
         	        	onmouseover="this.setAttribute('scrollamount', 1, 0);"
@@ -33,7 +33,7 @@
 				</td>
 			</tr>
 			<tr>
-				<td width="220px" valign="top" style="height:257px; padding-left=100px;" >
+				<td width="300px" valign="top" style="height:257px; padding-left=100px;" >
 		                <p><a> Click to Buy </a> </p>
 				<?php include 'data/common/main_page_adv.php'; ?>
     				</td>
