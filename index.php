@@ -26,9 +26,9 @@
 	        	        <marquee direction="up"
         	        	onmouseover="this.setAttribute('scrollamount', 1, 0);"
 	                	onmouseout="this.setAttribute('scrollamount', 2, 0);" scrollamount= 3  >
-		                <p><a> Class 10th Board exam completed successfully </a> </p>
-        		        <p><a> Admission open for new session from Class I to class X. </a> </p>
-                		<p><a> Summer Vacation From 28th March to 20th April </a> </p>
+		                <p><a> Released Cursive HandWriting Video Lesson # 1 (From A to I in Capital letters) </a> </p>
+		                <p><a> Cursive HandWriting Video Lesson # 2 Coming Soon (From I to R in Capital letters) </a> </p>
+		                <p><a> Cursive HandWriting Video Lesson # 3 Coming Soon (From S to Z in Capital letters) </a> </p>
 				</marquee> 
 				</td>
 			</tr>
