@@ -30,7 +30,7 @@
                <ul class ="socialIcons">
                    <li class="l5_icons l5_facebook"><a class="m_item" href="https://www.facebook.com/hellocuriousbrain" target="_blank" > </a></li>
                    <li class="l5_icons l5_twitter"><a  href="https://twitter.com/hicuriousbrain" target="_blank"></a></li>
-                   <li class="l5_icons l5_googleplus"><a href="https://plus.google.com/u/0/100390326390189929514/posts" target="_blank" ></a></li>
+                   <li class="l5_icons l5_googleplus"><a href="https://plus.google.com/u/0/communities/112269530173434739044" target="_blank" ></a></li>
                    <li class="l5_icons l5_youtube"><a href="https://www.youtube.com/channel/UCfiKJU9biy3dQg-GUfEAwzw" target="_blank" ></a></li>
                    </ul>
 
