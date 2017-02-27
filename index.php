@@ -35,7 +35,7 @@
 			<tr>
 				<td width="300px" valign="top" style="height:257px; padding-left=100px;" >
 		                <p><a> Click to Buy </a> </p>
-				<?php include 'data/common/misc/main_page_adv.php'; ?>
+				<?php include 'data/common/advertisement/main_page_adv.php'; ?>
     				</td>
 			</tr>
 
