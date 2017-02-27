@@ -1,7 +1,7 @@
 <html>
-<?php include 'data/common/head.php' ?>
+<?php include 'data/common/misc/head.php' ?>
 <body>
-<?php include 'data/common/side_feedback.php'; ?>
+<?php include 'data/common/misc/side_feedback.php'; ?>
 
 <center>
 <table>
@@ -15,7 +15,7 @@
 			<!--First Row of Left Table start -->
 			<tr>
 				<td valign="top">	
-				<?php include 'data/common/logo.php'; ?>
+				<?php include 'data/common/misc/logo.php'; ?>
 				</td>
 			</tr>
 			<!--First Row of Left Table End -->
@@ -35,7 +35,7 @@
 			<tr>
 				<td width="300px" valign="top" style="height:257px; padding-left=100px;" >
 		                <p><a> Click to Buy </a> </p>
-				<?php include 'data/common/main_page_adv.php'; ?>
+				<?php include 'data/common/misc/main_page_adv.php'; ?>
     				</td>
 			</tr>
 
@@ -51,8 +51,8 @@
 		    cellspacing="0" >
     <!-- First Row of Right Table starts (Top Space) -->
 			<?php 
-			include 'data/common/main_menu.php'; 
-			include 'data/common/description_index.php';
+			include 'data/common/misc/main_menu.php'; 
+			include 'data/common/misc/description_index.php';
 			?>
 			
 
@@ -65,12 +65,12 @@
 <tr>
 <td class="left">
 <div>
-<?php include 'data/common/footer_left.php'; ?>
+<?php include 'data/common/misc/footer_left.php'; ?>
 </div>
 <!-- Full Table End -->
 </td>
 <td class="right">
-<?php include 'data/common/footer_right.php'; ?>
+<?php include 'data/common/misc/footer_right.php'; ?>
 </td>
 </tr>
 

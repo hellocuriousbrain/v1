@@ -26,15 +26,15 @@ function new_page($currpageId) {
 			<!--Second Row of Left Table Start -->
 			<tr>
 				<td width="250px" valign="top" style="height:377px;" >
-				<?php 
-					include  "../advertisement/left_".$currpageId."_adv.php"; 
+				<?php
+					include  "../data/common/advertisement/left_".$currpageId."_adv.php";
 				?>
 				</td>
 			</tr>
  
 			<tr>
 				<td width="250px" valign="top" style="height:377px;" >
-				<?php include "../quick_links/quick_links_".$currpageId.".php"; ?>
+				<?php include "../data/common/quick_links/quick_links_".$currpageId.".php"; ?>
 				</td>
 			</tr>
        
