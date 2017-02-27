@@ -14,11 +14,11 @@
                   </div> -->
                                                 <div id="sliderFrame">
                                                 <div id="slider">
-                                                <img src="data/image/Cover-1.jpg" width="750" height="1555" alt="" />
-                                                <img src="data/image/Cover-2.jpg" alt="" />
-                                                <img src="data/image/Cover-3.jpg" alt="" />
-                                                <img src="data/image/Cover-4.jpg" alt="#htmlcaption" />
-                                                <img src="data/image/Cover-5.jpg" />
+                                                <img src="data/image/Cover-1.png" width="750" height="1555" alt="" />
+                                                <img src="data/image/Cover-2.png" alt="" />
+                                                <img src="data/image/Cover-3.png" alt="" />
+                                                <img src="data/image/Cover-4.png" alt="#htmlcaption" />
+                                                <img src="data/image/Cover-5.png" />
                                                 </div>
                                                 </div>
                                                 <div class="div2">
