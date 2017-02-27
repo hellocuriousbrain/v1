@@ -3,9 +3,9 @@ function new_page($currpageId) {
    ?>
 
 <html>
-<?php include 'misc/head.php' ?>
+<?php include 'head.php' ?>
 <body>
-<?php include 'misc/side_feedback.php'; ?>
+<?php include 'side_feedback.php'; ?>
 
 <center>
 <table >
@@ -18,7 +18,7 @@ function new_page($currpageId) {
 			<!--First Row of Left Table start -->
 			<tr>
 				<td valign="top">
-				<?php include 'misc/logo.php'; ?>
+				<?php include 'logo.php'; ?>
 				</td>
 			</tr>
 			<!--First Row of Left Table End -->
@@ -27,14 +27,14 @@ function new_page($currpageId) {
 			<tr>
 				<td width="250px" valign="top" style="height:377px;" >
 				<?php 
-					include  "advertisement/left_".$currpageId."_adv.php"; 
+					include  "../advertisement/left_".$currpageId."_adv.php"; 
 				?>
 				</td>
 			</tr>
  
 			<tr>
 				<td width="250px" valign="top" style="height:377px;" >
-				<?php include "quick_links/quick_links_".$currpageId.".php"; ?>
+				<?php include "../quick_links/quick_links_".$currpageId.".php"; ?>
 				</td>
 			</tr>
        
@@ -50,8 +50,8 @@ function new_page($currpageId) {
 		    cellspacing="0" >
 
 			<?php
-				include 'misc/main_menu.php';
-				include 'misc/description.php';
+				include 'main_menu.php';
+				include 'description.php';
 				descrip($currpageId); 
 			?>
 		</table>
@@ -61,12 +61,12 @@ function new_page($currpageId) {
 <tr>
 <td class="left">
 <div>
-<?php include 'misc/footer_left.php'; ?>
+<?php include 'footer_left.php'; ?>
 </div>
 <!-- Full Table End -->
 </td>
 <td class="right">
-<?php include 'misc/footer_right.php'; ?>
+<?php include 'footer_right.php'; ?>
 </td>
 </tr>
 

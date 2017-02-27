@@ -1,6 +1,6 @@
 <?php
 function descrip($currpageId) {
-    $file_laction = "../data/txt/";
+    $file_laction = "../../data/txt/";
         $file_ext = ".txt";
 $des_filename = $file_laction . $currpageId . $file_ext;
 ?>
@@ -17,7 +17,7 @@ $des_filename = $file_laction . $currpageId . $file_ext;
     fclose ($f);
 ?>            <hr>
             <div class = "Mrsextractor_2" align = "Center">
-            <img src="../data/image/<?php echo $currpageId?>.png" width="700" height="120" />
+            <img src="../../data/image/<?php echo $currpageId?>.png" width="700" height="120" />
             </div>
             <div class = "Mrsextractor_2" align = "Center">
 <?php

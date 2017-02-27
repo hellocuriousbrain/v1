@@ -4,20 +4,13 @@
                <ul >
               <li >
     <span style="font-family: georgia, serif; font-size: 14px; line-height: 25px;margin:0px,0px,0px,100px;">
-<a class="m_item_footer" href="../index.php" >Home</a></li></span>
+<a class="m_item_footer" href="../../index.php" >Home</a></li></span>
                    <li >
     <span style="font-family: georgia, serif; font-size: 14px; line-height: 25px">
-<a class="m_item_footer" href="../About_Us/Background.php" >About Us</a></span></li>
+<a class="m_item_footer" href="../../About_Us/About_Us.php" >About Us</a></span></li>
                    <li >
     <span style="font-family: georgia, serif; font-size: 14px; line-height: 25px">
-<a class="m_item_footer" href="../About_Us/Contact.php" >Connect with Us</a></span></li>
-    <li >
-    <span style="font-family: georgia, serif; font-size: 14px; line-height: 25px">
-<a class="m_item_footer" href="../Donate/Donate_Online.php" >Donate</a></span></li>
-<li >
-    <span style="font-family: georgia, serif; font-size: 14px; line-height: 25px">
-<a class="m_item_footer" href="../site-map.php" >Site Map</a></span></li> 
-
+<a class="m_item_footer" href="../../About_Us/connect_with_us.php" >Connect with Us</a></span></li>
                    </ul>
 
              </div>
