@@ -1,4 +1,5 @@
-English
+<h2 style="text-align: center;"><span style="color: red;font-family:&quot;verdana&quot; , sans-serif; font-size: x-large;">English</span></h2>
+
 <p> <span style="font-family: georgia, serif; font-size: 14px; line-height: 22px; background-color:#ffffff">
  English is useful for Student who are preparing for Government Job examinations, SSC, Banking, IBPS, SBI, Clerical, Probationary Officer, PO, RRB, Railways, Apprentice, LIC, FCI, , CDS, MBA Entrance Exams , CAT, MS, MHCET, CMAT, MAT, ATMA, BBA, CLAT, LSAT, HOTEL MANAGEMENT, NTSE, OLYMPIADS, MCA, NIMCET, HTET, CTET,Army, Airforce, AFCAT, NDA, XAT , IIFT, IRMA, NMAT.
 </span> </p>

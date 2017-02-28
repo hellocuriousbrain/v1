@@ -1,6 +1,4 @@
-<div dir="ltr" style="text-align: left;" trbidi="on">
-<h2 style="text-align: center;">
-<span style="color: red; font-family: &quot;verdana&quot; , sans-serif; font-size: x-large;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Cursive Hand Writing &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></h2>
+<div dir="ltr" style="text-align: left;" ><h2 style="text-align: center;"><span style="color: red; font-family: &quot;verdana&quot; , sans-serif; font-size: x-large;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Cursive Hand Writing</span></h2>
 <div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://2.bp.blogspot.com/-uCmcA_L9iZA/WKftGTc3etI/AAAAAAAAAEI/dySeCATq_YEZpgW3AaqMZKe9NG5V-ryOQCEw/s1600/capital_cursive.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="200" src="https://2.bp.blogspot.com/-uCmcA_L9iZA/WKftGTc3etI/AAAAAAAAAEI/dySeCATq_YEZpgW3AaqMZKe9NG5V-ryOQCEw/s200/capital_cursive.jpg" width="180" /></a></div>

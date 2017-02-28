@@ -1,6 +1,5 @@
+<h2 style="text-align: center;"><span style="color: red; font-family:&quot;verdana&quot; , sans-serif; font-size: x-large;">Connect with Us</span></h2>
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<h2 style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;">
-<span style="background-color: transparent; font-family: &quot;arial&quot;; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span style="color: red; font-size: x-large;">Connect</span></span></h2>
 <div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
 <span style="background-color: transparent; color: black; font-family: &quot;arial&quot;; font-size: 11pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div>
 <div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">

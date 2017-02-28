@@ -1,4 +1,5 @@
-English
+<h2 style="text-align: center;"><span style="color: red; font-family: &quot;verdana&quot; , sans-serif; font-size: x-large;">Idioms</span></h2>
+
 <p> <span style="font-family: georgia, serif; font-size: 14px; line-height: 22px; background-color:#ffffff">
  The use of idioms makes communication so effective and powerful whether in listening, speaking, reading, or writing.
 

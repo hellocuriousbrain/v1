@@ -1,3 +1,4 @@
+<h2 style="text-align: center;"><span style="color: red;font-family:&quot;verdana&quot; , sans-serif; font-size: x-large;">Thank You </span></h2>
 <div class = "extractor" align="center">
             <div class = "Mrsextractor" align="center">
 <strong> Thanks Message </strong>

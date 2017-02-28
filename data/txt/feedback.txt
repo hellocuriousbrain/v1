@@ -1,8 +1,6 @@
- <div class = "extractor" align="center">
-<strong> Leave Your feedback </strong>
-
+<h2 style="text-align: center;"><span style="color: red; font-family: &quot;verdana&quot; , sans-serif; font-size: x-large;">Leave Your feedback </span></h2> 
+<div class = "extractor" align="center">
          <hr>
-
             <div class = "Mrsextractor_2"  style = "height:620px; margin: 50 0 0 0; " align = "Center">
 <form action="sendmail.php" method="POST">
 <div style = "height:50px;">
