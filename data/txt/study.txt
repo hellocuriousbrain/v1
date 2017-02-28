@@ -1,0 +1,7 @@
+<h2 style="text-align: center;"><span style="color: red; font-family:&quot;verdana&quot; , sans-serif; font-size: x-large;">Courses</span></h2>
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<span style="color: blue;"><br /></span>
+<span style="color: blue;">hellocuriousbrain.com's self-paced video courses are created by the best teachers and designed to help you meet your educational goals.</span><br />
+<span style="color: blue;">They will help you improve your grades, better understand concepts from class, and prepare for tests.&nbsp;</span><br />
+<span style="color: blue;">Most video lessons are 10 minutes or less, so you get the information you need in a fast and fun format.</span></div>
+

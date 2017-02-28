@@ -1,0 +1,14 @@
+<h2 style="text-align: center;"><span style="color: red; font-family:&quot;verdana&quot; , sans-serif; font-size: x-large;">Students</span></h2>
+
+
+<div dir="ltr" style="text-align: left;" trbidi="on">
+
+<span style="color: blue;"><br /></span>
+<span style="color: blue;">The Student Art Guide helps students in a wide range of high school Art qualifications, such as IGCSE, GCSE, A Level, NCEA, AP Studio and IB Art.</span><br />
+<span style="color: blue;">All resources are free.</span><br />
+<span style="color: blue;"><br /></span>
+<span style="color: blue;"><br /></span>
+<span style="color: blue;">We compile new ideas, best practice and helpful learning strategies for high school Art students. Our resources are recommended by leading educational institutions and have been shared on social media over a million times.</span><br />
+<span style="color: blue;"><br /></span>
+<span style="color: blue;">We feature outstanding student art projects, including those that are awarded top in a qualification or country. These provide wonderful learning tools for others and celebrate the achievement of students, teachers and schools.</span></div>
+
