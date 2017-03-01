@@ -4,7 +4,6 @@ function new_page($currpageId) {
 
 <html>
 <?php include 'head.php' ?>
-<body>
 <script type='text/javascript'>
     var pubID = '15987CL14359';
 
@@ -14,6 +13,7 @@ function new_page($currpageId) {
     document.getElementsByTagName('body')[0].appendChild(s);
     }());
 </script>
+<body>
 
 <?php include 'side_feedback.php'; ?>
 

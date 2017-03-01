@@ -1,6 +1,4 @@
 <html>
-<?php include 'data/common/misc/head.php' ?>
-<body>
 <script type='text/javascript'>
     var pubID = '15987CL14359';
 
@@ -10,6 +8,8 @@
     document.getElementsByTagName('body')[0].appendChild(s);
     }());
 </script>
+<?php include 'data/common/misc/head.php' ?>
+<body>
 
 <?php include 'data/common/misc/side_feedback.php'; ?>
 
