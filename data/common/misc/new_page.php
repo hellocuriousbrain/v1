@@ -5,7 +5,7 @@ function new_page($currpageId) {
 <html>
 <?php include 'head.php' ?>
 <body>
-
+<?php include_once("analyticstracking.php") ?>
 <?php include 'side_feedback.php'; ?>
 
 <center>

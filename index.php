@@ -1,7 +1,7 @@
 <html>
 <?php include 'data/common/misc/head.php' ?>
 <body>
-
+<?php include_once("analyticstracking.php") ?>
 <?php include 'data/common/misc/side_feedback.php'; ?>
 
 <center>
