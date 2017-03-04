@@ -1,4 +1,4 @@
-<h2 style="text-align: center;"><span style="color: red; font-family: &quot;verdana&quot; , sans-serif; font-size: x-large;">Idioms</span></h2>
+<div><h2 style="text-align: center;"><span style="color: red; font-family: &quot;verdana&quot; , sans-serif; font-size: x-large;">Idioms</span></h2>
 
 <p> <span style="font-family: georgia, serif; font-size: 14px; line-height: 22px; background-color:#ffffff">
  The use of idioms makes communication so effective and powerful whether in listening, speaking, reading, or writing.
@@ -18,4 +18,5 @@ Idioms are explained in Hindi language in this video series.
 <span style="font-size: large;"><a href="http://hellocuriousbrain.blogspot.in/2017/01/idioms-lesson-1.html" target="">Lesson 1</a></span><br>
 <b><a href="http://hellocuriousbrain.blogspot.in/2017/02/idioms-lesson-2.html">Lesson 2</a></b>
 <br>
-<span style="font-size: large;"><a href="http://hellocuriousbrain.blogspot.in/2017/02/below-idioms-are-explained-in-lesson-3.html">Lesson 3</a></span> 
+<span style="font-size: large;"><a href="http://hellocuriousbrain.blogspot.in/2017/02/below-idioms-are-explained-in-lesson-3.html">Lesson 3</a></span> </div>
+<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/study/idioms.php" data-width="700" data-numposts="5"></div>

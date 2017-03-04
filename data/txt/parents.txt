@@ -10,4 +10,4 @@
 <span style="color: blue;"><br /></span>
 <span style="color: blue;">Your valuable involvement will certainly enhance student-teacher performance.&nbsp;</span><br />
 <span style="color: blue;">You can contribute to us by giving your feedback(On Right Side) on Student Performance, Institute, Infrastructure and Teaching Methodology.</span></div>
-
+<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/parants/parants.php" data-width="700" data-numposts="5"></div>

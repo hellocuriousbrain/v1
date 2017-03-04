@@ -6,10 +6,18 @@ function new_page($currpageId) {
 <?php include 'head.php' ?>
 <body>
 <?php include_once("analyticstracking.php") ?>
+<?php include_once("facebooksdk.php") ?>
 <?php include 'side_feedback.php'; ?>
+				<?php
+					include  "side_fb_share_background.php";
+				fb_share_bg($currpageId); 
+				?>
+				<?php
+					include  "../data/common/fb_share/side_fb_share_".$currpageId.".php";
+				?>
 
 <center>
-<table >
+<table  style="background-color:white">
 <tbody>
 <!-- Full Start (This Contain Two tables (Right and Left)) -->
 	<tr>

@@ -19,4 +19,4 @@
                    font-size: 14px; line-height: 22px; background-color:#ffffff;">
                To help these children for learn english easily..
            </span></p>
- 
+<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/study/english.php" data-width="700" data-numposts="5"></div> 

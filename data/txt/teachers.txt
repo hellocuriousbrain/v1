@@ -7,4 +7,4 @@
 <span style="color: blue;">Then you've come to the right place.&nbsp;</span><br />
 <span style="color: blue;">The Teacher's Corner offers a comprehensive directory of some of the top editor reviewed and user recommended teacher and eductor resources on the Internet.</span><br />
 <span style="color: blue;">We will provide lesson for teachers to teach student in creative way.</span></div>
-
+<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/teachers/teachers.php" data-width="700" data-numposts="5"></div>

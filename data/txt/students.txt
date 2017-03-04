@@ -11,4 +11,4 @@
 <span style="color: blue;">We compile new ideas, best practice and helpful learning strategies for high school Art students. Our resources are recommended by leading educational institutions and have been shared on social media over a million times.</span><br />
 <span style="color: blue;"><br /></span>
 <span style="color: blue;">We feature outstanding student art projects, including those that are awarded top in a qualification or country. These provide wonderful learning tools for others and celebrate the achievement of students, teachers and schools.</span></div>
-
+<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/students/students.php" data-width="700" data-numposts="5"></div>

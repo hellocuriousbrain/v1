@@ -3,9 +3,10 @@
 <body>
 <?php include_once("analyticstracking.php") ?>
 <?php include 'data/common/misc/side_feedback.php'; ?>
+<?php include 'data/common/misc/facebooksdk.php'; ?>
 
 <center>
-<table>
+<table  style="background-color:white">
 <tbody>
         <!-- Full Start (This Contain Two tables (Right and Left)) -->
 	<tr>

@@ -79,4 +79,4 @@ Please find PDF file for this :-</div>
 <div>
 <a href="https://drive.google.com/open?id=0By7hLECWNpZERDJvRXZydHVGQVU" target="_blank">idioms_3.pdf</a></div>
 </div>
-
+<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/study/idimos_3.php" data-width="700" data-numposts="5"></div>
