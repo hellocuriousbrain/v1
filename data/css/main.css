@@ -603,4 +603,17 @@ padding: 5px;
     transform: translateX(100%);
 }
 
-
+div.centerpanel {
+width:100%;
+height:100%;
+}
+.leftpanel {
+display:inline-block;
+width:50%;
+float: left;
+}
+.rightpanel {
+display:inline-block;
+width:50%;
+float: right;
+}
