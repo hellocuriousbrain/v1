@@ -47,7 +47,7 @@
 
 		    <!-- Left Table End -->
 
-		<td class="right">
+		<td class="right" valign="top">
 		<!-- Right Table Start -->
 		<table class="right_container" align="right" border="0" cellpadding="0"
 		    cellspacing="0" >
