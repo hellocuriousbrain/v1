@@ -34,7 +34,7 @@ function new_page($currpageId) {
 
 			<!--Second Row of Left Table Start -->
 			<tr>
-				<td width="250px" valign="top" style="height:377px;" >
+				<td width="250px" valign="top" style="height:377px;padding-top: 50px;" >
 				<?php
 					include  "../data/common/advertisement/left_".$currpageId."_adv.php";
 				?>
