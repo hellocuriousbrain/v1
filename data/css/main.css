@@ -617,3 +617,25 @@ display:inline-block;
 width:50%;
 float: right;
 }
+.post {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 20px;
+        color:#3B5998;
+        text-align: left;
+}
+.post em{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 20px;
+        color:#8A0C0C;
+}
+.post_heading {
+        font-family: 'Pangolin', cursive;
+        font-size: 32px;
+        color:#8A0C0C;
+}
+
+a.post_link:link {text-decoration:none;color:black; background-color:transparent;margin:0px,0px,0px,100px;}
+a.post_link:active  {text-decoration:none;color:black; background-color:transparent;margin:0px,0px,0px,100px;}
+a.post_link:hover   {text-decoration:none;color:black; background-color:transparent;margin:0px,0px,0px,100px;}
+a.post_link:visited {text-decoration:none;color:black; background-color:transparent;margin:0px,0px,0px,100px;}
+

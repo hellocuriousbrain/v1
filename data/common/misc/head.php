@@ -9,4 +9,5 @@
  <link href="../../data/css/js-image-slider.css" rel="stylesheet" type="text/css" />
     <script src="../../data/js/js-image-slider.js" type="text/javascript"></script>
     <link href="../../data/css/generic.css" rel="stylesheet" type="text/css" />
+ <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,800|Pangolin" rel="stylesheet"> 
 </head>
