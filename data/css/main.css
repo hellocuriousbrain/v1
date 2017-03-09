@@ -91,6 +91,26 @@ width:1000px;
 #footer ul.joomla-nav li{  list-style:none; display:inline; line-height:120px;}
 #footer_side ul.joomla-nav-side li{  list-style:none;  line-height:120px;}
 
+
+.page_footer_left
+{
+background-color:#1384BB;
+width:300px;
+height:220px;
+}
+
+.page_footer_right
+{
+background-color:#1384BB;
+width:780px;
+height:220px;
+}
+.page_footer
+{
+background-color:#1384BB;
+width:1080px;
+height:220px;
+}
 .socialIcons li {
     cursor: pointer;
     float: left;

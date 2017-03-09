@@ -67,9 +67,9 @@ function new_page($currpageId) {
 		</td>
 	</tr>
 
-<tr>
+<tr class="page_footer">
 <td class="left">
-<div>
+<div class="page_footer_left">
 <?php include 'footer_left.php'; ?>
 </div>
 <!-- Full Table End -->

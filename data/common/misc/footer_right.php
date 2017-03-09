@@ -1,6 +1,6 @@
-<div >
+<div class ="page_footer_right">
     
-<div align="left" class = "joomla-nav" style="height:200px;width:420px;float:left;background-color:#F0F0F0;padding: 20px 0px 0px 0px; padding 0px 0px 0px 0px ">
+<div align="left" class = "joomla-nav" style="height:200px;width:420px;float:left;background-color:#1384BB;padding: 20px 0px 0px 0px; padding 0px 0px 0px 0px ">
 <ul >
               <li >
 
@@ -14,7 +14,7 @@
 </ul>
 </div>
     
-<div id = "footer_side"  style="height:200px;width:345px;float:left;background-color:#F0F0F0;padding: 20px 0px 0px 0px;">
+<div id = "footer_side"  style="height:200px;width:345px;float:left;background-color:#1384BB;padding: 20px 0px 0px 0px;">
     <div align="center">
 <div style = "padding:0px 170px 15px 0px"> <a style="font-family: georgia, serif; font-size: 14px; line-height: 20px; color:#000000;font-weight: bold; "> Stay Connected </a>
     </div>
