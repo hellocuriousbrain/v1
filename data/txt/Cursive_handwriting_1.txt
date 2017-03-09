@@ -27,7 +27,9 @@ which is explained in this <a class ="post_link" href="https://www.youtube.com/w
 <br/>
 <br />
 <div>
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/i3mayro0Bsc/0.jpg" frameborder="0" height="532" src="https://www.youtube.com/embed/i3mayro0Bsc?feature=player_embedded" width="640"></iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/i3mayro0Bsc" frameborder="0"
+allowfullscreen></iframe>
 </div>
 <br />
 <br/>

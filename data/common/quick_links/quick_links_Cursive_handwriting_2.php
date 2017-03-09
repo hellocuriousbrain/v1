@@ -10,8 +10,8 @@
                     <li > <div class = "squared" align = "left"><a class = "Left_Menu_list" href="../study/Cursive_handwriting.php" display:
                             block;> Cursive Handwriting </a> </div> </li>
                     <li><div class = "divider"> </div> <li>
-                    <li > <div class = "squared" align = "left"><a class = "Left_Menu_list" href="../study/Cursive_handwriting_2.php" display:
-                            block;> Cursive Handwriting Lesson#2</a> </div> </li>
+                    <li > <div class = "squared" align = "left"><a class = "Left_Menu_list" href="../study/Cursive_handwriting_1.php" display:
+                            block;> Cursive Handwriting Lesson # 1 </a> </div> </li>
                     <li><div class = "divider"> </div> <li>
         
                     <li > <div class = "squared" align = "left"><a class = "Left_Menu_list" href="../study/idioms.php" display: block;> Idioms </a> </div> </li>
